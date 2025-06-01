@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874231233147",
+    "project_id": "vedio-call-app-e6337",
+    "storage_bucket": "vedio-call-app-e6337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874231233147:android:ba5461b527aa8b48c700de",
+        "android_client_info": {
+          "package_name": "com.example.vedio_call_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcPMVqH6JTAe2ixXhCrEo9-2kXVgERh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
